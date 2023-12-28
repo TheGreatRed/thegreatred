@@ -4,6 +4,13 @@
     <h4 align="center">Un apasionado desarrollador frontend de Colombia.</h3>
 </div>
 
+<h4 align="left">👨‍💻 Sobre Mi:</h3>
+<ul>
+    <li>📝 Me desempeño como <b>desarrollador web full stack</b>.</li>
+    <li>🌱 Actualmente estoy aprendiendo: <b>Angular</b>, <b>TypeScript</b> y <b>React.js</b>.</li>
+    <li>📫 Contacto: <b><a href="mailto:sebas.2919.rojas@gmail.com">sebas.2919.rojas@gmail.com</a></b></li>
+</ul>
+
 <h4 align="left">📫 Conecta Conmigo:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/sebastian-rojas-00478b225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-rojas-00478b225" height="30" width="40" /></a>
