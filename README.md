@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">¡Hey 👋! Soy Sebastian Rojas</h1>
-    <h3 align="center">Un apasionado desarrollador frontend de Colombia 🇨🇴</h3>
+    <h3 align="center">Un apasionado desarrollador frontend de Colombia :🇨🇴</h3>
 </div>
 
 <!--
