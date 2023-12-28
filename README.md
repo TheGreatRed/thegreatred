@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img align="center" width="220" src="./img/Profile.jpg" />
+    <img align="center" width="200" src="./img/Profile.jpg" />
     <h3 align="center">¡Hey 👋! Soy Sebastian Rojas</h1>
     <h4 align="center">Un apasionado desarrollador frontend de Colombia.</h3>
 </div>
