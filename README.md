@@ -8,7 +8,7 @@
 <ul>
     <li>📝 Me desempeño como <b>desarrollador web full stack</b>.</li>
     <li>🌱 Actualmente estoy aprendiendo: <b>Angular</b>, <b>TypeScript</b> y <b>React.js</b>.</li>
-    <li>📫 Contacto: <b><a href="mailto:sebas.2919.rojas@gmail.com">sebas.2919.rojas@gmail.com</a></b></li>
+    <li>📧 Contacto: <b><a href="mailto:sebas.2919.rojas@gmail.com">sebas.2919.rojas@gmail.com</a></b></li>
 </ul>
 
 <h3 align="left">📫 Conecta Conmigo</h3>
